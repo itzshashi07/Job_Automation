@@ -20,18 +20,6 @@ backend/
 └── package.json
 
 
-## 🔐 Environment Variables
-
-Create a `.env` file in the root directory and add the following:
-
-```env
-EMAIL_USER=your_email@gmail.com
-EMAIL_PASS=your_app_password
-
-
-Make sure to enable 2-Step Verification on your Gmail and generate an App Password to use here.
-
-
 **Installation**
 npm install
 
@@ -69,6 +57,24 @@ Frontend is hosted separately on Vercel.
 💡 License
 MIT
 
-Made with ❤️ by Shashi
+
+
+
+
+
+Made with ❤ by Shashi
+
+
+
+## 🔐 Environment Variables
+
+Create a `.env` file in the root directory and add the following:
+
+```env
+EMAIL_USER=your_email@gmail.com
+EMAIL_PASS=your_app_password
+
+
+Make sure to enable 2-Step Verification on your Gmail and generate an App Password to use here.
 
 
